@@ -10,4 +10,4 @@
 
 <h3>Resultados</h3>
  
-<b>Ela pode devolver um status INVALIDO que significa qur o cpf não consta  ou ele pode devolver EXISTENTE quando o cpf consta no sistema</b>
+<b>Ela pode devolver um status INVALIDO que significa que o cpf não consta, ou ele pode devolver EXISTENTE quando o cpf consta no sistema</b>
